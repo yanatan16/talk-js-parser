@@ -6,6 +6,10 @@
   "directories": {
     "test": "test"
   },
+  "engines": {
+    "npm": "~5.1.0"
+  },
+  "es6": true,
   "scripts": {
     "test": "mocha test/*test.js"
   },
@@ -24,6 +28,8 @@
   },
   "devDependencies": {
     "chai": "3.4.1",
+    "deep-diff": "^0.3.3",
+    "esprima": "^2.7.0",
     "jsverify": "0.7.1"
   }
 }
