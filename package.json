@@ -1,0 +1,29 @@
+{
+  "name": "talk-js-parsing",
+  "version": "0.0.1",
+  "description": "Talk: Parsing with parsimmon parser-combinators",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanatan16/talk-js-parser.git"
+  },
+  "author": "Jon Eisen <jon@joneisen.works>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yanatan16/talk-js-parser/issues"
+  },
+  "homepage": "https://github.com/yanatan16/talk-js-parser#readme",
+  "dependencies": {
+    "parsimmon": "0.6.0"
+  },
+  "devDependencies": {
+    "chai": "3.4.1",
+    "jsverify": "0.7.1"
+  }
+}
