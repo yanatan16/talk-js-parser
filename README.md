@@ -5,6 +5,7 @@ Talk: Parsing in Javascript with parsimmon parser-combinators
 ## Outline
 
 - Parsing can be difficult
-- Parser combinator theory
+- Parser combinator intro
 - Parsing lisp
-- Parsing json
+- Property-based testing
+- creating a custom generator
