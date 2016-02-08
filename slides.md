@@ -1,8 +1,12 @@
-# JS Parser Combinators
+# JS Parser-Combinators
 
-Talk given at BoulderJS Meetup on February 17, 2015
+_Jon Eisen_
+BoulderJS Meetup
+February 17, 2016
 
-## Outline
+---***---
+
+### Outline
 
 - Parsing can be difficult
 - Parser combinator intro
