@@ -57,7 +57,9 @@ Tyson doesn't even know where to start.
 
 ![tyson-sleep](img/tyson-sleep.jpg)
 
-Lexers, Context-free grammars, Backus-Naur Form???
+Lexers? Context-free Grammars? Backus-Naur Form?
+
+Do bison even _have_ ANTLRs?
 
 Its so complicated and academic!
 
@@ -304,6 +306,14 @@ const stringLiteral = quoted.map(util.interpretJsonEscapes),
 ![tyson-field](img/tyson-field.jpg)
 
 With this newfound knowledge, Tyson runs free to pursue his parsing dreams.
+
+-***-
+
+# References
+
+- [Wikipedia entry for Parser-Combinators](https://en.wikipedia.org/wiki/Parser_combinator)
+- [Parsimmon JS Parsing Library](https://github.com/jneen/parsimmon)
+- [Using Parsec, from Real World Haskell](http://book.realworldhaskell.org/read/using-parsec.html)
 
 -***-
 
