@@ -1,6 +1,6 @@
 <style>
 img { height: 400px; }
-img[alt=tyson-love], img[alt=tyson-field] { height: 300px; }
+img[alt=tyson-love], img[alt=tyson-field], img[alt=tyson-sleep] { height: 300px; }
 hr { margin: 2em 0; }
 </style>
 
