@@ -113,7 +113,6 @@ We can parse numbers and lists.
 ---
 
 ```js
-var quote = P.string('"')
 var string = P.regex(/"([^"]*)"/, 1)
 
 string.parse('"abc"').value // => "abc"
