@@ -315,6 +315,10 @@ With this newfound knowledge, Tyson runs free to pursue his parsing dreams.
 - [Parsimmon JS Parsing Library](https://github.com/jneen/parsimmon)
 - [Using Parsec, from Real World Haskell](http://book.realworldhaskell.org/read/using-parsec.html)
 
+More examples available in this repo:
+
+http://github.com/yanatan16/talk-js-parser/tree/gh-pages/lib
+
 -***-
 
 ## Thanks
