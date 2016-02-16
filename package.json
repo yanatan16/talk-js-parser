@@ -11,7 +11,8 @@
   },
   "es6": true,
   "scripts": {
-    "test": "mocha test/*test.js"
+    "test": "mocha test/*test.js",
+    "slides": "python -m SimpleHTTPServer"
   },
   "repository": {
     "type": "git",
@@ -24,12 +25,19 @@
   },
   "homepage": "https://github.com/yanatan16/talk-js-parser#readme",
   "dependencies": {
-    "parsimmon": "0.6.0"
+    "parsimmon": "git+https://github.com/jneen/parsimmon.git#a41d6dffcadccc2498fd23817499bfa68292672a"
   },
   "devDependencies": {
     "chai": "3.4.1",
+    "connect-livereload": "0.5.4",
     "deep-diff": "^0.3.3",
     "esprima": "^2.7.0",
-    "jsverify": "0.7.1"
+    "express": "4.13.4",
+    "gulp": "3.9.1",
+    "gulp-livereload": "3.8.1",
+    "gulp-mocha": "2.2.0",
+    "gulp-serve": "1.2.0",
+    "jsverify": "0.7.1",
+    "tiny-lr": "0.2.1"
   }
 }
