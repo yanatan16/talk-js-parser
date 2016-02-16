@@ -296,7 +296,13 @@ const stringLiteral = quoted.map(util.interpretJsonEscapes),
 [ { sym: 'i' }, { sym: 'handle' } ]
 ```
 
+-^*^-
 
+## Parsing Lisp
+
+Now we can take the parsed Abstract Syntax Tree, and do stuff with it!
+
+... But thats for another talk, specifically [Jim Baker's November BoulderJS Talk](http://www.meetup.com/Boulder-JS/events/226663066/)
 
 -***-
 
