@@ -13,7 +13,7 @@ BoulderJS Meetup
 
 February 17, 2016
 
-http://joneisen.me/talk-js-parser
+http://joneisen.me/r/jsparse
 
 -***-
 
