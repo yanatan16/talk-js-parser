@@ -11,7 +11,7 @@ _Jon Eisen_
 
 BoulderJS Meetup
 
-February 17, 2016
+April 20, 2016
 
 http://joneisen.me/r/jsparse
 
