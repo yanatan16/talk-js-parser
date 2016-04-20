@@ -31,7 +31,7 @@ Many discussed how interesting it would be to look at parsing Javascript.
 
 # Background
 
-I said "**That's not as approachable!**"
+I said "**Cool, but hard to give a talk about!**"
 
 I'll talk about parser-combinators instead.
 
@@ -41,7 +41,7 @@ I'll talk about parser-combinators instead.
 
 ![tyson-cold](img/tyson-cold.jpg)
 
-Tyson wants to create a new language.
+Tyson wants to create a new Dog-Specific Language (or **DSL**).
 
 -***-
 
@@ -181,7 +181,7 @@ Tyson is amazed at how simple it is!
 
 ![tyson-hike](img/tyson-hike.jpg)
 
-Let's parse a language, lisp!
+Tyson's a cool Boulder pup, so his DSL uses lisp!
 
 -***-
 
@@ -310,7 +310,7 @@ Now we can take the parsed Abstract Syntax Tree, and do stuff with it!
 
 ![tyson-field](img/tyson-field.jpg)
 
-With this newfound knowledge, Tyson runs free to pursue his parsing dreams.
+With this newfound knowledge, Tyson runs off to pursue his DSL dreams.
 
 -***-
 
@@ -330,8 +330,6 @@ http://github.com/yanatan16/talk-js-parser/tree/gh-pages/lib
 
 ![tyson-love](img/tyson-love.jpg)
 
-Jon Eisen is a local freelancer.
+Jon Eisen, Activision Analytic Services
 
-Contact if you want to hire him (or pet Tyson).
-
-http://joneisen.works
+Blog: http://joneisen.me
